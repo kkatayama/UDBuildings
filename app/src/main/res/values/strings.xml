@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UDBuildings</string>
+    <string name="no_codes">No Building Codes Yet</string>
+    <string name="menu_insert">Add Building</string>
+    <string name="menu_delete">Delete Building</string>
+    <string name="code">Code</string>
+    <string name="name">Name</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Building</string>
+</resources>

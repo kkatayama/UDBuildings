@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Holly/UDBuildings/app/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Holly/UDBuildings/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">UDBuildings</string>
+    <string name="code">Code</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Building</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="menu_delete">Delete Building</string>
+    <string name="menu_insert">Add Building</string>
+    <string name="name">Name</string>
+    <string name="no_codes">No Building Codes Yet</string>
+</resources>
